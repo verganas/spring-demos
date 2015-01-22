@@ -1,0 +1,4 @@
+
+- Demonstrates the use of "Java Config" classes to generate Spring beans inside an application context (AnnotationConfigApplicationContext).
+- Totally avoids using XML configuration.
+- No Component Scanning occurs.
